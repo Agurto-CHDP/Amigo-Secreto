@@ -2,4 +2,4 @@
 
 ***El Amigo Secreto a Premiar***
 
-En Desarrollo
+Se procedera a ingresar vía Pages como nuevo proyecto
